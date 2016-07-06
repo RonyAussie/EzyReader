@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiaoyi/Desktop/rssreader-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a826f9d18999f1101a14dc6724a0101bf6bd8065">
+        <dex dex="/Users/xiaoyi/Desktop/rssreader-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9289b17e8130aba0be0c500031573e2663439e47/classes.dex" />
+    </item>
+
+</items>
